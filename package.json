@@ -2,7 +2,7 @@
   "name": "clu-js",
   "version": "0.0.0",
   "description": "\"CLU data structures in JavaScript\"",
-  "main": "index.js",
+  "main": "repl.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
